@@ -225,7 +225,7 @@ Contact
 For questions, feedback, or collaboration opportunities, reach out to us: 
 
     Email: 
-    Telegram: @RFAI_Bot
+    Telegram: https://t.me/RFAIBot
    
      
 
