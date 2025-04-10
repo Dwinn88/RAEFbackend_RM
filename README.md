@@ -83,7 +83,7 @@ This repository is private to protect sensitive algorithms and configurations. F
 ## Contact Us
 
 For questions, feedback, or collaboration opportunities:  
-- Telegram: [@RAEF_AI_Bot](https://t.me/RAEF_AI_Bot)  
+- Telegram: [@RAEF Group](https://t.me/RAEFcoin)  
 - Discord:   
 - Email: 
 
