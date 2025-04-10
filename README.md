@@ -73,8 +73,9 @@ Key Highlights:
 ## Access
 
 This repository is private to protect sensitive algorithms and configurations. For more information about RAEF.AI or to gain access:  
-- Join our Telegram group: [t.me/raef_ai_group](https://t.me/raef_ai_group)  
+- Join our Telegram group: [t.me/raefcoin](https://t.me/raefcoin)  
 - Visit our website: [raef.ai](https://raefai.vercel.app)  
+- Use Telegram BOT: [t.me/RFAIbot](https://t.me/raefcoin)
 - Email us: 
 
 ---
